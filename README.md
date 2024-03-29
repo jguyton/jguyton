@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![eth](https://github.com/jguyton/jguyton/assets/11680677/b5551b64-1044-4d33-b500-41e431c57725)
+
 
 <!--
 **jguyton/jguyton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
