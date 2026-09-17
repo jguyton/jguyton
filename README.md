@@ -6,8 +6,11 @@
 ![riley](https://github.com/user-attachments/assets/660c01b1-e675-425c-b1c1-e7c6d60be677)
 ![s](https://github.com/user-attachments/assets/09aff0fd-794e-487f-9eb7-d4f3e2c5fc06)
 ![j](https://github.com/user-attachments/assets/cf57be23-9a6f-4d8b-a613-4a81ab461bef)
-![l](https://github.com/user-attachments/assets/22f38fe1-982b-4a0b-8af0-ded479a6d4a5)
 ![eth](https://github.com/jguyton/jguyton/assets/11680677/b5551b64-1044-4d33-b500-41e431c57725)
+![l](https://github.com/user-attachments/assets/22f38fe1-982b-4a0b-8af0-ded479a6d4a5)
+![l](https://github.com/user-attachments/assets/22f38fe1-982b-4a0b-8af0-ded479a6d4a5)
+![l](https://github.com/user-attachments/assets/22f38fe1-982b-4a0b-8af0-ded479a6d4a5)
+
 <!--
 **jguyton/jguyton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
